@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Thế Vinh</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-<img style="border-radius: 5px" align="right" alt="gifimg" width="400" src="https://giffiles.alphacoders.com/139/13997.gif">
+<img style="border-radius: 5px" align="right" alt="gifimg" width="370" src="https://giffiles.alphacoders.com/139/13997.gif">
 
 - 🌱 I’m currently learning **ReactJS**
 
