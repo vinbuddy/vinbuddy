@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Thế Vinh</h1>
 <h3 align="center">I'm trying to become a frontend developer</h3>
 
-<img  align="right" alt="gifimg" width="370" src="https://giffiles.alphacoders.com/139/13997.gif">
+<img  align="right" alt="gifimg" width="370" src="https://i.gifer.com/origin/9a/9a408411071e84fea28cf5918b09b320.gif">
 
 - 🌱 I’m currently learning **ReactJS**
 
