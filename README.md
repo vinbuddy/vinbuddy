@@ -3,7 +3,7 @@
 
 <img  align="right" alt="gifimg" width="370" src="https://i.gifer.com/origin/9a/9a408411071e84fea28cf5918b09b320.gif">
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinbuddy?tab=repositories](https://github.com/vinbuddy?tab=repositories)
 
