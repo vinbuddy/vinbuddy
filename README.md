@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Thế Vinh</h1>
 <h3 align="center">I'm trying to become a web developer</h3>
 
-<img  align="right" alt="gifimg" width="370" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img  align="right" alt="gifimg" width="370" src="https://i.ibb.co/P1D91tv/Getty-Images-1225201409.webp">
 
 - 🌱 I’m currently learning **...**
 
