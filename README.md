@@ -19,6 +19,8 @@
 <a href="https://instagram.com/vermon.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermon.js" height="30" width="40" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=vinbuddy&color=ff69b4)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href=#">
