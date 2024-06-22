@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinbuddy&show_icons=true&locale=en&layout=compact" alt="vinbuddy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinbuddy&show_icons=true&locale=en&layout=donut" alt="vinbuddy" /></p>
 
 
 
